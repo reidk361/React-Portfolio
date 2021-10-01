@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.c55d77ea.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.6318738d.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.6318738d.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.7530632e.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.7530632e.js.map",
+    "static/js/2.2f0a3f9b.chunk.js": "/react-portfolio/static/js/2.2f0a3f9b.chunk.js",
+    "static/js/2.2f0a3f9b.chunk.js.map": "/react-portfolio/static/js/2.2f0a3f9b.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.c55d77ea.chunk.css.map": "/react-portfolio/static/css/main.c55d77ea.chunk.css.map",
+    "static/js/2.2f0a3f9b.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.2f0a3f9b.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/react-portfolio/static/media/Silver_Roulette-BB.0d27b7d5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7530632e.js",
+    "static/js/2.2f0a3f9b.chunk.js",
+    "static/css/main.c55d77ea.chunk.css",
+    "static/js/main.6318738d.chunk.js"
+  ]
+}
